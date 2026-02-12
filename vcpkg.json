@@ -1,0 +1,9 @@
+{
+    "name": "life-dashboard"
+    "version-string": "0.1.0",
+    "dependencies": [
+      "sqlite3",
+      "nlohmann-jason",
+      "catch2"
+    ]
+  }
